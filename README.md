@@ -8,9 +8,7 @@ button animation
 <link rel="stylesheet" href="css/style.css" type="text/css">
 ```
 
-3. on the bottom of web page add this row ->
-
-```html
+3. on the bottom of web page add this row -> ```html
 <script src="js/script.js"></script>
 ```
 
